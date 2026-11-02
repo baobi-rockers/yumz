@@ -1,0 +1,228 @@
+{
+  "id": "mediacorp:28364",
+  "type": "series",
+  "name": "Chronicle of Life",
+  "name_zh": "缘尽今生",
+  "year": 1995,
+  "channel": "Mediacorp Channel 8",
+  "sitcom": false,
+  "tmdb_id": 299489,
+  "mewatch": {
+    "show_code": "28364",
+    "show_url": "https://www.mewatch.sg/show/Chronicle-of-Life-28364"
+  },
+  "seasons": [
+    {
+      "season": 1,
+      "episode_count": 25
+    }
+  ],
+  "cast": [
+    {
+      "name": "Fann Wong",
+      "role": "方玲"
+    },
+    {
+      "name": "Xie Shaoguang",
+      "role": "杨勇"
+    },
+    {
+      "name": "Chen Shucheng",
+      "role": "周正清"
+    },
+    {
+      "name": "成建辉",
+      "role": "蒋益文"
+    },
+    {
+      "name": "Tuoya Talin",
+      "role": "骆霏"
+    },
+    {
+      "name": "王丽萍",
+      "role": "周思洁"
+    },
+    {
+      "name": "Huihui Chen",
+      "role": "张雪莉"
+    }
+  ],
+  "episodes": [
+    {
+      "season": 1,
+      "episode": 1,
+      "mewatch_code": "54661",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E1-54661",
+      "youtube_id": "IkZ-Km6XvdM"
+    },
+    {
+      "season": 1,
+      "episode": 2,
+      "mewatch_code": "54660",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E2-54660",
+      "youtube_id": "ml2Xhk_-vI4"
+    },
+    {
+      "season": 1,
+      "episode": 3,
+      "mewatch_code": "54658",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E3-54658",
+      "youtube_id": "4MGZQgyPHv0"
+    },
+    {
+      "season": 1,
+      "episode": 4,
+      "mewatch_code": "54659",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E4-54659",
+      "youtube_id": "-KnVavi6rIk"
+    },
+    {
+      "season": 1,
+      "episode": 5,
+      "mewatch_code": "54652",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E5-54652",
+      "youtube_id": "orfODEGnWAw"
+    },
+    {
+      "season": 1,
+      "episode": 6,
+      "mewatch_code": "54653",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E6-54653",
+      "youtube_id": "iasLyTGCLcY"
+    },
+    {
+      "season": 1,
+      "episode": 7,
+      "mewatch_code": "54654",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E7-54654",
+      "youtube_id": "KmpdD_99gR8"
+    },
+    {
+      "season": 1,
+      "episode": 8,
+      "mewatch_code": "54655",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E8-54655",
+      "youtube_id": "5b1MNid6ZvE"
+    },
+    {
+      "season": 1,
+      "episode": 9,
+      "mewatch_code": "54656",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E9-54656",
+      "youtube_id": "_QmTQ2Xvdyc"
+    },
+    {
+      "season": 1,
+      "episode": 10,
+      "mewatch_code": "54657",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E10-54657",
+      "youtube_id": "RAhygiiyWs8"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "mewatch_code": "54650",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E11-54650",
+      "youtube_id": "NfRX1bd3WBc"
+    },
+    {
+      "season": 1,
+      "episode": 12,
+      "mewatch_code": "54648",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E12-54648",
+      "youtube_id": "HWAHJgwN-eU"
+    },
+    {
+      "season": 1,
+      "episode": 13,
+      "mewatch_code": "54651",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E13-54651",
+      "youtube_id": "jcKOnGm3Ga8"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "mewatch_code": "54647",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E14-54647",
+      "youtube_id": "wdzIOrefhQ0"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "mewatch_code": "54644",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E15-54644",
+      "youtube_id": "lww7uypY65M"
+    },
+    {
+      "season": 1,
+      "episode": 16,
+      "mewatch_code": "54645",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E16-54645",
+      "youtube_id": "lojPnto4eHI"
+    },
+    {
+      "season": 1,
+      "episode": 17,
+      "mewatch_code": "54642",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E17-54642",
+      "youtube_id": "oXPPQubk3w4"
+    },
+    {
+      "season": 1,
+      "episode": 18,
+      "mewatch_code": "54646",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E18-54646",
+      "youtube_id": "TnwNycSsQNI"
+    },
+    {
+      "season": 1,
+      "episode": 19,
+      "mewatch_code": "54643",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E19-54643",
+      "youtube_id": "2r9CkTFEjYw"
+    },
+    {
+      "season": 1,
+      "episode": 20,
+      "mewatch_code": "54649",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E20-54649",
+      "youtube_id": "-cRgBHO_TxQ"
+    },
+    {
+      "season": 1,
+      "episode": 21,
+      "mewatch_code": "54638",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E21-54638",
+      "youtube_id": "5tccuTBCDcc"
+    },
+    {
+      "season": 1,
+      "episode": 22,
+      "mewatch_code": "54639",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E22-54639",
+      "youtube_id": "qJNbZm7wtTs"
+    },
+    {
+      "season": 1,
+      "episode": 23,
+      "mewatch_code": "54641",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E23-54641",
+      "youtube_id": "bblgx0BdQ9c"
+    },
+    {
+      "season": 1,
+      "episode": 24,
+      "mewatch_code": "54640",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E24-54640",
+      "youtube_id": "jJj2_3OMveQ"
+    },
+    {
+      "season": 1,
+      "episode": 25,
+      "mewatch_code": "54637",
+      "mewatch_url": "https://www.mewatch.sg/watch/Chronicle-of-Life-E25-54637",
+      "youtube_id": "v7idATuHGXE"
+    }
+  ],
+  "youtube_playlist": "PLirshZulWJ9JXiIwdH8udXQuU0MV8QbPP"
+}

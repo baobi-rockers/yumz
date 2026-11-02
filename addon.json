@@ -1,0 +1,27 @@
+{
+  "id": "community.channel8.catalog",
+  "version": "1.0.0",
+  "name": "Channel 8 Catalog",
+  "description": "Unofficial catalog of Mediacorp Channel 8 dramas and sitcoms (1995-2018) with episode lists and cast. Playback opens the official mewatch page or official YouTube uploads.",
+  "types": ["series"],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "c8_dramas",
+      "name": "Channel 8 Dramas",
+      "extra": [
+        { "name": "genre", "options": ["1990s", "2000s", "2010s"], "isRequired": false },
+        { "name": "search" },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "c8_sitcoms",
+      "name": "Channel 8 Sitcoms",
+      "extra": [{ "name": "search" }, { "name": "skip" }]
+    }
+  ],
+  "resources": ["catalog", "meta", "stream"],
+  "idPrefixes": ["mediacorp:"]
+}
